@@ -1,3 +1,3 @@
 export default {
-    url: process.env.APP_URL || 'http://localhost:3030',
+    url: 'https://apirest.us-south.cf.appdomain.cloud',
 };
